@@ -1,0 +1,1 @@
+# trust3-snowflake-client-example
